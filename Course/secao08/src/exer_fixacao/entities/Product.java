@@ -1,4 +1,4 @@
-package entities;
+package exer_fixacao.entities;
 
 public class Product {
     public String name;

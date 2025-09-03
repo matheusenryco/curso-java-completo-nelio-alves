@@ -1,9 +1,9 @@
-package application;
+package exer_fixacao.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Product;
+import exer_fixacao.entities.Product;
 
 public class Program {
     public static void main(String[] args) {
